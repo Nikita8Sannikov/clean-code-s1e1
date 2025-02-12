@@ -18,9 +18,9 @@ body {
 }
 
 @media (max-width:768px) {
-.todo-header { 
-  text-align: center;
-}
+  .todo-header { 
+    text-align: center;
+  }
 }
 .todo-main {
   display: block;
@@ -111,7 +111,7 @@ button {
   align-items: center;
 }
 .todo-item > * {
-    vertical-align: middle;
+  vertical-align: middle;
 }
 .todo-item__checkbox {
   margin: 0 10px;
